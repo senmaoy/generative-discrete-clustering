@@ -1,5 +1,3 @@
-<img width="995" height="860" alt="image" src="https://github.com/user-attachments/assets/7c98b8b7-772c-41d6-8b0a-a53517caedfb" /># Data Extrapolation for Text-to-image Generation on Small Datasets
-
 Official Pytorch implementation for our paper [Regularized Wasserstein Distance for Discrete Generative Modeling and Clustering Analysis](https://arxiv.org/abs/2410.01638) 
 
 
