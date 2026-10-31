@@ -10,7 +10,7 @@ Official Pytorch implementation for our paper [Regularized Wasserstein Distance 
 - python 3.12.3
 - Pytorch 
 - GPUs(~30 minits on MNiST with 1 3090 TI)
-This code is very simple to run
+-This code is very simple to run
 ### Installation
 Clone this repo.
 ```
