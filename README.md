@@ -8,14 +8,16 @@ Official Pytorch implementation for our paper [Regularized Wasserstein Distance 
 ---
 ### Requirements
 - python 3.12.3
-- Pytorch 2.2.2
-- RTX 3090 or stronger GPUs(~7 days on CUB and Oxford with 2 3090 TI, ~30 days on COCO with 2 3090 TI)
-
+- Pytorch 
+- GPUs(~30 minits on MNiST with 1 3090 TI)
+This code is very simple to run
 ### Installation
-
 Clone this repo.
 ```
 git clone [https://github.com/senmaoy/generative-discrete-clustering.git]
 cd RAT-Diffusion
-conda env create -f environment.yml
-conda activate RAT
+### Training
+python sd_tiny_2_discret.py
+
+### TODO
+more code is coming soon
